@@ -1,0 +1,3 @@
+- En Restaurante.java decidí incluir el método "numeroPedidos" en vez de incluirlo en Pedido.java,
+porque se me hacía que tenía mayor sentido que cuente los pedidos de restaurante en vez de interna-
+mente en un pedido.
